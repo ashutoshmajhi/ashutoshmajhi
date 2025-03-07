@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+My name is Ashutosh,and proficient in Python and various Machine Learning libraries. Passionate about leveraging data-driven insights to solve complex problems and drive business impact
+
+- 🔭 I’m currently working on AiAgents, buildingan AI-powered companion for sending mails and blocking google calenders.
+- 🌱 I recently built a RAG model which is able to give answer to queries related to the uploaded pdf.
+- 👯 I’m looking to collaborate on Finance stock market expert, which help[s to create an strock expert LLM.
+- 🤔 I’m looking for help with Financial analyst
+ - Send me ideas to ashutosh24114@iiitd.ac.in
 
 <!--
 **ashutoshmajhi/ashutoshmajhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
